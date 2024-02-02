@@ -1,5 +1,5 @@
 # SmartAlarmClock
-A smart alarm clock powered by ESPHome on an ESP8266
+A smart alarm clock powered by ESPHome on an ESP8266. It will be contained within a 3D printed PLA enclosure.
 
 Hardware:
 -  ESP8266
