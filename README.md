@@ -17,9 +17,8 @@ The alarm clock **shall**
 - [ ] Allow the user to set the alarm time using rotary encoders
   - [ ] have a rotary encoder to set the alarm hour
   - [ ] have a rotary encoder to set the alarm minute
-- [ ] provide a push button to allow the user to start the Bedtime Home Assistant Routine
+- [x] provide a push button to allow the user to start the Bedtime Home Assistant Routine
 - [ ] provide a piezo buzzer for sounding alarm
 - [ ] not allow the alarm to stop sounding until the user is out of bed
-- [ ] stop sleep tracking when the alarm sounds
 - [x] have the brightness of the display able to be controlled through Home Assistant
 - [ ] turn off the display when the alarm is set
