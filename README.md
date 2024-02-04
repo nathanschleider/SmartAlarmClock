@@ -14,11 +14,9 @@ Functionality:
 The alarm clock **shall**
 - [x] Receive the current time from Home Assistant
 - [x] Display the time received from Home Assistant on the MAX7219 LED Matrix
-- [ ] Allow the user to set the alarm time using rotary encoders
-  - [ ] have a rotary encoder to set the alarm hour
-  - [ ] have a rotary encoder to set the alarm minute
+- [ ] Allow the user to control input_numbers in Home Assistant
 - [x] provide a push button to allow the user to start the Bedtime Home Assistant Routine
 - [ ] provide a piezo buzzer for sounding alarm
 - [ ] not allow the alarm to stop sounding until the user is out of bed
 - [x] have the brightness of the display able to be controlled through Home Assistant
-- [ ] turn off the display when the alarm is set
+- [x] turn off the display when sleep state is activated
